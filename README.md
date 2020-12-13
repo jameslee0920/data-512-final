@@ -19,10 +19,14 @@ On [Pew Research](https://www.pewresearch.org/fact-tank/2018/03/16/how-millennia
 # Data Selected for Analysis
 Data was collected from the [American Time Use Survey](https://www.bls.gov/tus/datafiles-0319.htm) from the U.S. Bureau of Labor Statistics (BLS).  More information regarding the American Time Use Survey can be found [here](https://www.bls.gov/tus/atususersguide.pdf).  
 The Datasets used were the:
-* [ATUS 2003-2019 Respondent File](https://www.bls.gov/tus/special.requests/atusresp-0319.zip)
-  * Contains the general demographics of each survey responder
 * [ATUS 2003-2019 Activity Summary File](https://www.bls.gov/tus/special.requests/atussum-0319.zip)
   * Contains infromation about total time spent doing each activity on a day
+* [Data Dictionary](https://www.bls.gov/tus/atuscpscodebk0319.pdf)
+  * Contains information on the contents of Data, and the coding of column names
+* [Activity Lexicon](https://www.bls.gov/tus/lexiconnoex0318.pdf)
+  * Contains information on translating the coded activities
+
+** Note Data has been transformed so that the .dat file is converted into a .txt file, separately, before it is read
 
 The data from BLS is in the public domain and is free to use without specific permission. [(Link)](https://www.bls.gov/bls/linksite.htm)
 This data is suitable in that it has anonymized survey participants and we can obtain the correct demographics and generations by adjusting age with the year of survey to obtain generations of survey responders.  
