@@ -5,7 +5,6 @@
 # Motivation
 We experience a type of fencing across generations in Social Media.  The slang phrase "Ok, Boomer" rose over recent years.  By definition from [Dictionary.com](https://www.dictionary.com/e/slang/ok-boomer/?itm_source=parsely-api), Ok Boomer is a viral internet slang phrase used, often in a humorous or ironic manner, to call out or dismiss out-of-touch or closed-minded opinions associated with the baby boomer generation and older people more generally.  This analysis will attempt seek whether the experiences in time use are different across generations, and also determine if there are other factors alongside generations responsible for widening this perceived gap.  
 
-<<<<<<< HEAD
 
 # Hypothesis
 The hypothesis of this research study is that the overall there is no differences between generations.  The time spent on leisure vs time spent on work should have been consistent throughout the years across different generations.  
