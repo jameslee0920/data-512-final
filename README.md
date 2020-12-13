@@ -33,4 +33,3 @@ The generations have been categorized by definition from (Pew Research)[https://
 | Generation X | 1965-1980 |
 | Millennials  | 1981-1996 |
 | Generation Z | 1997-2012 |
->>>>>>> 533b8d3e170ad9d129944c89e90efebb46feb47d
